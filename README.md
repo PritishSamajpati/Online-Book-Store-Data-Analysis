@@ -1,8 +1,3 @@
-# Online-Book-Store-Data-Analysis
-Here's the improved **GitHub README** with a **Specific Problems Section** and a **Conclusion**:  
-
----
-
 # 📚 Online Bookstore SQL Queries  
 
 This repository contains **PostgreSQL** SQL queries for managing and analyzing data in an **Online Bookstore**. These queries cover **basic operations, data retrieval, and advanced analytics** related to books, customers, and orders.  
